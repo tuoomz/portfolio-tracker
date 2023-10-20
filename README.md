@@ -55,7 +55,7 @@ To run the Nest.js application, follow these steps:
 
 ## Interacting with the Endpoints
 
-We have integrated the Swagger plugin for easy interaction with our application's endpoints. You can access the Swagger documentation at the following URL:
+We have integrated the Swagger plugin for easy interaction with our application's endpoints. You can access the Swagger documentation when the app is running at the following URL :
 
 [Swagger Documentation](http://localhost:3000/api/)
 
